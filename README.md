@@ -8,7 +8,7 @@
 pipenv shell
 ```
 
-##### 2. Set Up Groq API Key
+### 2. Set Up Groq API Key
 1. Visit [Groq Cloud](https://groq.com) and create a new API key.
 2. Install the Groq library:
    ```sh
@@ -19,7 +19,7 @@ pipenv shell
    GROQ_API_KEY=your_api_key_here
    ```
 
-##### 3. Convert Image to Required Format
+### 3. Convert Image to Required Format
 - The system processes images to extract medical details.
 
 ### 4. Multimodal LLM Setup
