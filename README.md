@@ -1,5 +1,5 @@
 # Medi_Ai DOCTOR VOICE BOT
-
+###This project is an AI-powered medical voice assistant designed to assist in analyzing medical receipts, converting speech to text for patients, generating doctor responses using a multimodal language model, and providing voice output. It integrates Groq API, Speech-to-Text (STT), Text-to-Speech (TTS), and a Gradio-based UI to create an interactive and efficient healthcare assistant.
 
 ---
 ## Setting Up `doctor.py`
